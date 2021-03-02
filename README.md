@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My contacts:
+
+[<img align="left" alt="https://t.me/PankillerG" width="22px" src="https://raw.githubusercontent.com/PankillerG/PankillerG/main/icons/telegram.png" />][telegram]
+
 <!--
 **PankillerG/PankillerG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
